@@ -148,13 +148,15 @@ All client names, testimonials, company names, statistics, and contact informati
 They are included solely to showcase the interface and user experience and should not be interpreted as verified customer information or actual business data.
 
 
-#  Contact
-
-**Developer**
+#  Developer
 
 Priya Jha
 
+Frontend & Full Stack Developer (MERN) passionate about creating responsive, scalable, and intuitive web applications. Interested in modern web technologies, clean UI design, and building production-ready applications.
+
+ Contact
+
+Email: priyajh7480@gmail.com
 GitHub: https://github.com/jhapriya909
-Email : priyajh7480@gmail.com
 
 
