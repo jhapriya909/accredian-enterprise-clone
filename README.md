@@ -10,10 +10,6 @@ This project is inspired by the Accredian Enterprise website and demonstrates cl
 
 > Add your deployed Vercel URL here
 
-Example:
-
-https://accredian-enterprise-clone.vercel.app
-
 #  GitHub Repository
 
 https://github.com/jhapriya909/accredian-enterprise-clone
