@@ -1,46 +1,164 @@
-# Accredian Enterprise — Premium Landing Page
+# Accredian Enterprise Landing Page
 
-A responsive enterprise learning landing page built with Next.js App Router, TypeScript and custom CSS. The project includes reusable components, animated data visuals, scroll reveals, count-up metrics, a mobile navigation menu and a working lead-capture API route.
+A modern, responsive enterprise landing page built using **Next.js App Router**, **React**, **TypeScript**, and **Custom CSS**.
 
-## Run locally
+This project is inspired by the Accredian Enterprise website and demonstrates clean UI design, reusable components, responsive layouts, smooth interactions, and a mock lead capture API. The focus was on creating a scalable and production-ready frontend while maintaining code readability and component reusability.
+
+#  Live Demo
+
+**Vercel Deployment**
+
+> Add your deployed Vercel URL here
+
+Example:
+
+https://accredian-enterprise-clone.vercel.app
+
+#  GitHub Repository
+
+https://github.com/jhapriya909/accredian-enterprise-clone
+
+
+#  Features
+
+- Fully Responsive (Desktop, Tablet & Mobile)
+- Sticky Navigation Bar
+- Smooth Scroll Navigation
+- Modern Hero Section
+- Interactive Capability Dashboard
+- Enterprise Solutions Section
+- Why Choose Us Section
+- Animated Statistics
+- Process Timeline
+- Testimonials Carousel
+- FAQ Accordion
+- Contact / Lead Capture Form
+- Mock API Integration
+- Back To Top Button
+- Smooth Hover Effects
+- Clean Component-Based Architecture
+- Accessible UI Design
+
+#  Tech Stack
+
+- Next.js (App Router)
+- React
+- TypeScript
+- Custom CSS
+- Next.js API Routes
+
+#  Folder Structure
+
+app/
+components/
+public/
+data/
+README.md
+package.json
+next.config.ts
+tsconfig.json
+
+
+#  Installation
+
+Clone the repository
 
 ```bash
+git clone https://github.com/jhapriya909/accredian-enterprise-clone.git
+
+
+Move to the project folder
+
+```bash
+cd accredian-enterprise-clone
+```
+
+Install dependencies
+
+bash
 npm install
+```
+
+Run the development server
+
+bash
 npm run dev
-```
 
-Open `http://localhost:3000`.
+Visit
+http://localhost:3000
 
-## Production check
+#  Production Build
 
-```bash
+bash
 npm run build
+
+
+Run production server
+
+bash
 npm start
-```
 
-## Features
+#  Approach
 
-- Fully responsive desktop, tablet and mobile layout
-- Sticky glass navigation and reading-progress indicator
-- Animated capability dashboard hero
-- Infinite industry marquee
-- Scroll-triggered section reveals
-- Count-up outcome metrics
-- Premium hover and micro-interactions
-- Reusable TypeScript components
-- Lead form using `app/api/leads/route.ts`
-- Accessible reduced-motion support
+The landing page was designed using a component-based architecture to improve scalability and maintainability.
 
-## AI Usage
+The primary focus was on:
 
-AI was used only for brainstorming UI ideas, selecting color combinations, and suggesting a few animation concepts. Most of the implementation, debugging, responsive adjustments, component integration, API setup, and issue resolution were completed manually. ChatGPT was used as a supporting tool during development, while the final structure, styling refinements, testing, and overall project implementation were done independently.
+- Clean UI
+- Responsive Layout
+- Reusable Components
+- Smooth User Experience
+- Performance
+- Maintainable Code Structure
 
-## Improvements with more time
+Instead of copying the reference website exactly, the interface was recreated with an original implementation while maintaining a similar enterprise look and feel.
 
-- Connect the lead form to MongoDB, Supabase or a CRM
-- Add CMS-managed case studies
-- Add real analytics and conversion tracking
-- Add automated component and API tests
 
-## Demo Content Note
-Client names, testimonials, metrics and contact details in this assignment are representative demo content used to showcase the interface. They are not presented as verified customer claims.
+#  AI Usage
+
+AI was used primarily as a supporting tool during development.
+
+It helped with:
+
+- Brainstorming UI ideas
+- Choosing color combinations
+- Suggesting animation ideas
+- Reviewing component structure
+
+Most of the implementation, responsive layout adjustments, debugging, component integration, API development, testing, styling refinements, and final project implementation were completed manually.
+AI was used for guidance rather than generating the complete project.
+
+# Future Improvements
+
+Given additional development time, the following enhancements could be added:
+
+- Connect the Lead Form with MongoDB
+- Integrate Supabase or Firebase
+- Add Authentication
+- Create an Admin Dashboard
+- Add CMS-based Content Management
+- Integrate Google Analytics
+- Add Dark Mode
+- Improve Accessibility
+- Add Unit & Integration Testing
+- Optimize Images
+- Improve SEO
+- Add Loading Skeletons
+- Implement Form Validation with Database Storage
+
+#  Demo Content
+
+All client names, testimonials, company names, statistics, and contact information used in this project are demonstration content created only for this assignment.
+They are included solely to showcase the interface and user experience and should not be interpreted as verified customer information or actual business data.
+
+
+#  Contact
+
+**Developer**
+
+Priya Jha
+
+GitHub: https://github.com/jhapriya909
+Email : priyajh7480@gmail.com
+
+
