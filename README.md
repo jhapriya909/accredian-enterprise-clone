@@ -8,7 +8,7 @@ This project is inspired by the Accredian Enterprise website and demonstrates cl
 
 **Vercel Deployment**
 
-> Add your deployed Vercel URL here
+https://accredian-enterprise-clone-lime.vercel.app/
 
 #  GitHub Repository
 
