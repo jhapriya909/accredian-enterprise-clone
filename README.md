@@ -31,9 +31,9 @@ npm start
 - Lead form using `app/api/leads/route.ts`
 - Accessible reduced-motion support
 
-## AI usage
+## AI Usage
 
-AI was used for initial layout planning, component scaffolding, animation ideas, CSS refinement and debugging suggestions. The visual hierarchy, responsive behavior, content structure, interaction choices and final testing were reviewed and adjusted manually.
+AI was used only for brainstorming UI ideas, selecting color combinations, and suggesting a few animation concepts. Most of the implementation, debugging, responsive adjustments, component integration, API setup, and issue resolution were completed manually. ChatGPT was used as a supporting tool during development, while the final structure, styling refinements, testing, and overall project implementation were done independently.
 
 ## Improvements with more time
 
